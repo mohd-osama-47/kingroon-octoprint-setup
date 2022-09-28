@@ -30,7 +30,7 @@ The following are some pictures that show the state of the setup as it is now. A
 
 ![Front View of the setup](./images/FrontView.jpeg)
 ![Side View of the setup](./images/SideView.jpeg)
-![Top View of the setup](./images/TopView.jpeg)
+![Top View of the setup](./images/TopVIew.jpeg)
 
 The view from the attached webcam is as follows:
 
